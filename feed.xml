@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Knack Publishing</title>
-    <link href="https://eagerkoalareader.github.io/knackpublishing/feed.xml" rel="self" />
-    <link href="https://eagerkoalareader.github.io/knackpublishing" />
+    <link href="https://knackpublishing.digital/feed.xml" rel="self" />
+    <link href="https://knackpublishing.digital" />
     <updated>2025-11-25T19:24:42+00:00</updated>
     <author>
         <name>D.C.CALLER</name>
     </author>
-    <id>https://eagerkoalareader.github.io/knackpublishing</id>
+    <id>https://knackpublishing.digital</id>
 
     <entry>
         <title>HEROICS NOT INCLUDED</title>
         <author>
             <name>GRUBBY FINGERS</name>
         </author>
-        <link href="https://eagerkoalareader.github.io/knackpublishing/heroics-not-included/"/>
-        <id>https://eagerkoalareader.github.io/knackpublishing/heroics-not-included/</id>
+        <link href="https://knackpublishing.digital/heroics-not-included/"/>
+        <id>https://knackpublishing.digital/heroics-not-included/</id>
             <category term="FICTION"/>
 
         <updated>2025-11-17T20:06:16+00:00</updated>
@@ -139,8 +139,8 @@
         <author>
             <name>D.C.CALLER</name>
         </author>
-        <link href="https://eagerkoalareader.github.io/knackpublishing/dead-straight-lines/"/>
-        <id>https://eagerkoalareader.github.io/knackpublishing/dead-straight-lines/</id>
+        <link href="https://knackpublishing.digital/dead-straight-lines/"/>
+        <id>https://knackpublishing.digital/dead-straight-lines/</id>
             <category term="FICTION"/>
 
         <updated>2025-11-12T08:15:00+00:00</updated>
@@ -243,8 +243,8 @@
         <author>
             <name>D.C.CALLER</name>
         </author>
-        <link href="https://eagerkoalareader.github.io/knackpublishing/cosmic-telephone/"/>
-        <id>https://eagerkoalareader.github.io/knackpublishing/cosmic-telephone/</id>
+        <link href="https://knackpublishing.digital/cosmic-telephone/"/>
+        <id>https://knackpublishing.digital/cosmic-telephone/</id>
             <category term="FICTION"/>
 
         <updated>2025-11-08T09:01:56+00:00</updated>
@@ -347,8 +347,8 @@
         <author>
             <name>D.C.CALLER</name>
         </author>
-        <link href="https://eagerkoalareader.github.io/knackpublishing/across-the-table/"/>
-        <id>https://eagerkoalareader.github.io/knackpublishing/across-the-table/</id>
+        <link href="https://knackpublishing.digital/across-the-table/"/>
+        <id>https://knackpublishing.digital/across-the-table/</id>
             <category term="FICTION"/>
 
         <updated>2025-11-08T09:01:24+00:00</updated>
@@ -451,8 +451,8 @@
         <author>
             <name>D.C.CALLER</name>
         </author>
-        <link href="https://eagerkoalareader.github.io/knackpublishing/a-guilty-man/"/>
-        <id>https://eagerkoalareader.github.io/knackpublishing/a-guilty-man/</id>
+        <link href="https://knackpublishing.digital/a-guilty-man/"/>
+        <id>https://knackpublishing.digital/a-guilty-man/</id>
             <category term="FICTION"/>
 
         <updated>2025-11-08T09:00:38+00:00</updated>
@@ -555,8 +555,8 @@
         <author>
             <name>D.C.CALLER</name>
         </author>
-        <link href="https://eagerkoalareader.github.io/knackpublishing/love-is-an-action/"/>
-        <id>https://eagerkoalareader.github.io/knackpublishing/love-is-an-action/</id>
+        <link href="https://knackpublishing.digital/love-is-an-action/"/>
+        <id>https://knackpublishing.digital/love-is-an-action/</id>
             <category term="FICTION"/>
 
         <updated>2025-11-08T08:59:40+00:00</updated>
@@ -659,8 +659,8 @@
         <author>
             <name>J.D.HAFF</name>
         </author>
-        <link href="https://eagerkoalareader.github.io/knackpublishing/summonitores-libro-part-9/"/>
-        <id>https://eagerkoalareader.github.io/knackpublishing/summonitores-libro-part-9/</id>
+        <link href="https://knackpublishing.digital/summonitores-libro-part-9/"/>
+        <id>https://knackpublishing.digital/summonitores-libro-part-9/</id>
             <category term="SUMMONITORES LIBRO"/>
             <category term="FICTION"/>
 
@@ -852,8 +852,8 @@
         <author>
             <name>J.D.HAFF</name>
         </author>
-        <link href="https://eagerkoalareader.github.io/knackpublishing/summonitores-libro-part-8/"/>
-        <id>https://eagerkoalareader.github.io/knackpublishing/summonitores-libro-part-8/</id>
+        <link href="https://knackpublishing.digital/summonitores-libro-part-8/"/>
+        <id>https://knackpublishing.digital/summonitores-libro-part-8/</id>
             <category term="SUMMONITORES LIBRO"/>
             <category term="FICTION"/>
 
@@ -1045,8 +1045,8 @@
         <author>
             <name>J.D.HAFF</name>
         </author>
-        <link href="https://eagerkoalareader.github.io/knackpublishing/summonitores-libro-part-7/"/>
-        <id>https://eagerkoalareader.github.io/knackpublishing/summonitores-libro-part-7/</id>
+        <link href="https://knackpublishing.digital/summonitores-libro-part-7/"/>
+        <id>https://knackpublishing.digital/summonitores-libro-part-7/</id>
             <category term="SUMMONITORES LIBRO"/>
             <category term="FICTION"/>
 
@@ -1238,8 +1238,8 @@
         <author>
             <name>J.D.HAFF</name>
         </author>
-        <link href="https://eagerkoalareader.github.io/knackpublishing/summonitores-libro-part-6/"/>
-        <id>https://eagerkoalareader.github.io/knackpublishing/summonitores-libro-part-6/</id>
+        <link href="https://knackpublishing.digital/summonitores-libro-part-6/"/>
+        <id>https://knackpublishing.digital/summonitores-libro-part-6/</id>
             <category term="SUMMONITORES LIBRO"/>
             <category term="FICTION"/>
 
